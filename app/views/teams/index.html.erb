@@ -1,0 +1,14 @@
+<h1>teams</h1>
+
+<% if @teams.any? %>
+  <ul>
+    <% @teams.each do |team| %>
+      <li><%= link_to team.name, team_path(team) %></li>
+    <% end %>
+  </ul>
+<% else %>
+  <p>There are no teams yet.</p>
+<% end %>
+
+
+<p><%= link_to "Create new team", new_team_path %></p>
