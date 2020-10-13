@@ -22,7 +22,7 @@ As the league manager, I want to generate a tournament that pits the top teams a
 
 ## Setup/Installation Requirements
 
-- For this project, you will need Ruby. Follow the directions (here)[https://www.learnhowtoprogram.com/ruby-and-rails/getting-started-with-ruby/ruby-installation-and-setup] for setting up Ruby.
+- For this project, you will need Ruby. Follow the directions [here](https://www.learnhowtoprogram.com/ruby-and-rails/getting-started-with-ruby/ruby-installation-and-setup) for setting up Ruby.
 - Install Rails on your machine with the following terminal command `gem install rails -v 5.2.0`
 - Navigate to the directory on your local computer where you would like to clone this repo.
 - Clone this repo using the `git clone` command in terminal/command line.
